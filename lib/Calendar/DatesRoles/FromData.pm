@@ -77,11 +77,11 @@ package variable.
 
 =head1 METHODS
 
-=head1 get_min_year
+=head2 get_min_year
 
-=head1 get_max_year
+=head2 get_max_year
 
-=head1 get_entries
+=head2 get_entries
 
 
 =head1 SEE ALSO
